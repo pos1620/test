@@ -5,6 +5,8 @@
 	<title>Document</title>
 </head>
 <body>
-	Welcome
+	<?php
+	echo "Welcome"
+	?>
 </body>
 </html>
